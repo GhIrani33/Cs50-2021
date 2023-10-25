@@ -28,21 +28,6 @@ To clone this repository, you can use the following command:
 git clone https://github.com/GhIrani33/CS50-Practice-Solutions.git
 ```
 
-## Usage
-
-To test these solutions, you will need to have [CS50 IDE](https://ide.cs50.io/) or similar environment.
-
-1. Navigate into the directory of the problem week.
-2. Run the solution file.
-
-For example:
-
-```bash
-cd 'Week 1'
-make mario
-./mario
-```
-
 ## Contributing
 
 Feedback, bug reports, and pull requests are welcomed. If you plan to contribute code, please create an issue first.
