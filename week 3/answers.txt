@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: در حالت مرتب شده کمترین زمان رو برد
+
+sort2 uses: Merge sort
+
+How do you know?: زمان بیشتری برده است.
+
+sort3 uses: selection sort
+
+How do you know?: کمترین مدت زمان رو برد  و سریعتر از  بقیه بوود.که در تعداد اراایه ی بالاتر اشکار تر شد.همچنین بدترین  و بهترین حالت مشابه ای داشت.
